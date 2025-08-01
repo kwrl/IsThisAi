@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IsThisAi", "IsThisAi\IsThisAi.csproj", "{D5262C5A-C5C5-44BC-845E-C46442D1663B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IsThisAi.Test", "IsThisAi.Test\IsThisAi.Test.csproj", "{B07C8FFC-BEDF-49ED-BFBB-A989709C6AC5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D5262C5A-C5C5-44BC-845E-C46442D1663B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5262C5A-C5C5-44BC-845E-C46442D1663B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5262C5A-C5C5-44BC-845E-C46442D1663B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5262C5A-C5C5-44BC-845E-C46442D1663B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B07C8FFC-BEDF-49ED-BFBB-A989709C6AC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B07C8FFC-BEDF-49ED-BFBB-A989709C6AC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B07C8FFC-BEDF-49ED-BFBB-A989709C6AC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B07C8FFC-BEDF-49ED-BFBB-A989709C6AC5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
