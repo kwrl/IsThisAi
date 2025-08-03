@@ -27,14 +27,6 @@ public class Layer<TInput, TOutput>(INeuron<TInput, TOutput>[] neurons)
         }
         return results;
     }
-
-    public void DistributeInputs(TInput[] inputs)
-    {
-        for (var i = 0; i < neurons.Length; i++)
-        {
-            neurons[i].Input = inputs[i];
-        }
-    }
   
     // TODO: We don't really want to allocate a new array every time we call GetOutputs.
     // We should consider using a preallocated array or a more efficient data structure.
