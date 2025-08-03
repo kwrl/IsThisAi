@@ -1,7 +1,4 @@
 ﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
 	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=d7e4bf7a_002D9bd0_002D47fc_002Dbd6a_002D16c9aa807a3c/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="ReturnValue__When__Activated" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
-  &lt;TestAncestor&gt;
-    &lt;TestId&gt;xUnit::B07C8FFC-BEDF-49ED-BFBB-A989709C6AC5::net8.0::IsThisAi.Test.InputNeuronShould.ReturnValue__When__Activated&lt;/TestId&gt;
-    &lt;TestId&gt;xUnit::B07C8FFC-BEDF-49ED-BFBB-A989709C6AC5::net8.0::IsThisAi.Test.SigmoidNeuronShould.ReturnCorrectOutput__When__Activated&lt;/TestId&gt;
-  &lt;/TestAncestor&gt;
+  &lt;Project Location="/Users/hakonkaurel/Code/IsThisAi/IsThisAi.Test" Presentation="&amp;lt;IsThisAi.Test&amp;gt;" /&gt;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

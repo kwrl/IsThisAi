@@ -1,6 +1,8 @@
 namespace IsThisAi;
 
-public interface INeuron<T> where T : struct
+public interface INeuron<in TInput, out TOutput> 
 {
-    T Activate(T[] inputs);
+    TOutput Output { get; }
+    public TInput Input { set; }
+    void Activate();
 }
